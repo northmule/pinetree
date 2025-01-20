@@ -1,0 +1,10 @@
+# ВК
+VK:
+   ApiVersion: "5.199" # версия API которую использовать
+   AccessToken: "" # токен доступа выданные VK
+   GroupID: "" # ID группы ВК
+   AlbumID: "1" # Альбом ВК
+
+Log:
+   FilePath: "app.log" # путь к файлу
+   Level: "info" # уроверь логирования
