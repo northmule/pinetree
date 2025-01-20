@@ -4,3 +4,6 @@ Vk:
    AccessToken: "" # токен доступа выданные VK
    GroupID: "" # ID группы ВК
    AlbumID: "" # Альбом ВК
+Log:
+   FilePath: "app.log" # путь к файлу
+   Level: "info" # уроверь логирования
